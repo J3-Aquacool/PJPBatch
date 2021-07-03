@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CCFD-0628
+
+ Directory of C:\PayMeApp
+
+03-07-2021  16:44    <DIR>          .
+03-07-2021  16:44    <DIR>          ..
+03-07-2021  16:44                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  301,352,542,208 bytes free
